@@ -20,7 +20,7 @@
 		<m2eclipse.wtp.contextRoot>/varz</m2eclipse.wtp.contextRoot>
 		<varz.path>/varz</varz.path>
 		<identity.version>${project.parent.version}</identity.version>
-		<spring.version>3.1.2.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<!-- Brain dead install plugin (Maven 3) cannot extract this stuff from its own configuration -->
 		<file>target/${project.artifactId}-${project.version}.war</file>
 		<groupId>${project.groupId}</groupId>
